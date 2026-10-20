@@ -1,12 +1,12 @@
 {
     "theme": "dark",
     "download_paths": {
-        "youtube": "/home/oai/Videos/YouTube",
-        "instagram": "/home/oai/Videos/Instagram"
+        "youtube": "D:/04_Hobbies/py/video",
+        "instagram": "D:/04_Hobbies/py/video"
     },
     "quality": {
         "youtube": "1080",
-        "instagram": "best"
+        "instagram": "1080"
     },
     "container": "mp4"
 }
