@@ -1,0 +1,82 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Application logs
+logs/
+*.log
+*.log.*
+
+# Temporary and partial downloads
+*.part
+*.ytdl
+*.temp
+*.tmp
+*.download
+
+# Downloaded media
+downloads/
+Videos/
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.avi
+*.mp3
+*.m4a
+*.wav
+
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+cookies.txt
+cookies*.txt
+*.session
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Python packaging
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.spec

@@ -1,0 +1,12 @@
+{
+    "theme": "dark",
+    "download_paths": {
+        "youtube": "/home/oai/Videos/YouTube",
+        "instagram": "/home/oai/Videos/Instagram"
+    },
+    "quality": {
+        "youtube": "1080",
+        "instagram": "best"
+    },
+    "container": "mp4"
+}
